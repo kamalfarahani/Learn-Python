@@ -1,10 +1,9 @@
 # Learn Python
 
-* First session:
+* Session 1:
     - 01-basics
     - 02-condtional-execution
 
-* Second session:
+* Session 2:
     - 03-sequence-types
     - 04-strings
-    - 05-iteration
