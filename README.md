@@ -9,5 +9,5 @@
     - 04-strings
 
 * Session 3:
-    -04-strings(continued)
-    -05-iteration
+    - 04-strings(continued)
+    - 05-iteration
