@@ -17,9 +17,6 @@ def print_board():
 
 
 def player_move():
-    """
-
-    """
     global step
     current_player = PLAYER_1 if step % 2 == 0 else PLAYER_2
     print(f'Player {current_player} turn!')
@@ -89,7 +86,7 @@ def main():
     elif is_winner(PLAYER_2):
         print(f'Player {PLAYER_2} won!')
     else:
-        print('Game ove no one won! (tie)')
+        print('Game over no one won! (tie)')
 
 
 if __name__ == '__main__':
