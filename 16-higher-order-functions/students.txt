@@ -1,0 +1,4 @@
+Alex:20
+John:21
+Max:50
+Eric:10
