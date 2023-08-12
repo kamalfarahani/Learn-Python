@@ -21,3 +21,7 @@
   - 09-exceptions
   - 10-iterables-iterators
   - 11-more-on-functions
+ 
+* Session 6:
+  - 12-text-files
+  - 13-classes
