@@ -34,6 +34,8 @@ This repository is a comprehensive resource for learning Python programming. It 
 
 - **13-classes**: In this folder, you will learn about defining new classes and object-oriented programming (OOP) in Python.
 
+- **14-comprehensions**: In this folder, you will learn about list comprehensions, dictionary comprehensions and set comprehensions in Python. These are powerful tools for working with data in Python.
+
 - **15-useful-built-in-functions**: Here, you will explore some of the useful built-in functions that Python provides. These functions are commonly used and can greatly simplify your coding tasks.
 
 - **16-higher-order-functions**: This folder explains higher-order functions in Python. You will learn about functions that can take other functions as arguments or return functions as results. Understanding higher-order functions is important for functional programming paradigms.
